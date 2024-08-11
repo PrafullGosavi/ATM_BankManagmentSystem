@@ -5,9 +5,9 @@ Developed an atm bank management system using Python, featuring user login, bala
 <h1>skills</h1>
 <ul>
   <li>
-    python
+    <b>python</b>
   </li>
   <li>
-    MY-SQL
+    <b>MY-SQL</b>
   </li>
 </ul>
